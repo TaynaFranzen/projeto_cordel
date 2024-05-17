@@ -4,9 +4,6 @@
     font-family: "Lilita";
     src: url(LilitaOne-Regular.ttf); format:(truetype);
 }
-@font-face {
-    font-family: "Shantell";
-    src: url(ShantellSans-VariableFont_BNCE\,INFM\,SPAC\,wght.ttf); format:(truetype);}
 
     *{
         margin: 0px;
